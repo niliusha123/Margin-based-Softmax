@@ -3,7 +3,7 @@ the pytorch implementation of Sub_Arcface and sphereface2
 
 If you find some problems, please correct me and contact me at any time
 
-Add the promve of easy_margin part of ArcFace in the codes, and the codes comes from https://github.com/ronghuaiyang/arcface-pytorch. If you have any questions, feel free to communicate with me. There may be a problem with my certificate. Please correct it at any time.
+Add the prove of easy_margin part of ArcFace in the codes, and the codes comes from https://github.com/ronghuaiyang/arcface-pytorch. If you have any questions, feel free to communicate with me. There may be a problem with my certificate. Please correct it at any time.
 
 # notice
 1. This sphereface2 is relization by myself, so, it could just for reference, if the official implementation is public, everybody could remind me.
